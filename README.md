@@ -28,9 +28,12 @@ _Italic_
 **Bold**
 _Bold?_
 **_Combined_**
+Unordered List
 *List 1
 *List 2
 *List 3
-
+Ordered List
+* 1.Item1
+* 1.Item 2
 
 
